@@ -1,2 +1,0 @@
-# ForecastingEnergyData
-an in-depth analysis of the power consumption dataset. You will accomplish this via data visualization and time series regression modeling. As a first step, you will learn the importance of granularity and how subset your data into meaningful time periods. Then you will explore the data using visualization techniques, and you will select the most information-laden visualizations to present eventually to your client. You will then develop three different time series regression models and work with seasonal and non-seasonal forecasting.
